@@ -3,7 +3,7 @@
 * Scraping data from website using BeautifulSoup
 * Sending user requests trough Discord API
 ## Command
-* ```$rijecnik [word]```
+* ```$rjecnik [word]```
 ## Output language
 * Serbian / Croatian
 ## Website I scrape data from
