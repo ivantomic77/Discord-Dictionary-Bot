@@ -68,4 +68,4 @@ async def on_message(message):  # if message is sent
         else:
             await message.channel.send('> Komanda: `$rjecnik [rijec]`')
 
-client.run("OTkyNzM0OTU5OTEzNjg1MDQz.G-YaZy.vP7LSCfZN7qG7JccdC51GSDBjxyHEb9N1EtkPM")
+client.run("TOKEN")
