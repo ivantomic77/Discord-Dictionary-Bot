@@ -1,6 +1,6 @@
 # Discord Dictionary Bot
 ## Features
-* Scraping data from website
+* Scraping data from website using BeautifulSoup
 * Sending user requests trough Discord API
 ## Command
 * ```$rijecnik [word]```
