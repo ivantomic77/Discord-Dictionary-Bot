@@ -126,4 +126,4 @@ async def on_message(message):  # if message is sent
 
     await client.process_commands(message)
 
-client.run("OTkyNzM0OTU5OTEzNjg1MDQz.GIJ5ki.nlAL7gcfDWXlK9NkVdD3e2ASkjPs20thnf4KlM")
+client.run("TOKEN")
